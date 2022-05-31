@@ -1,7 +1,7 @@
 # Extended JAIN SLEE JDBC
 
 
-The Extended jain slee JDBC is cloned from RestComm JAIN SLEE(https://github.com/RestComm/jain-slee.jdbc)
+The Extended jain slee JDBC is cloned from RestComm JAIN SLEE https://github.com/RestComm/jain-slee.jdbc
 from which they have added a set of improvements and new.
 
 # Introduction
