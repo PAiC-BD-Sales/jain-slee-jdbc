@@ -18,19 +18,14 @@ The Jain slee Jdbc can be found using Git at, Git repository URL : https://githu
 
 # Pre-Requisites for Building from Source
 
-    · Git Client: Instructions for using GIT, including install, can be found at http://git-scm.com/book
+    · Git Client: Instructions for using GIT, including install, can be found at http://git-scm.com/book 
 
- 
+    · Maven 3.2.X: Instructions for using Maven, including install, can be found at http://maven.apache.org/ 
 
-    · Maven 3.2.X: Instructions for using Maven, including install, can be found at http://maven.apache.org/
-
- 
-
-    · Ant 1.9.X: Instructions for using Ant, including install, can be found at http://ant.apache.org/
-
- 
+    · Ant 1.9.X: Instructions for using Ant, including install, can be found at http://ant.apache.org/ 
 
     · JDK 11 or Higher
+    
 
 Git is used to manage Restcomm JAIN SLEE JDBC source code. 
 Instructions for downloading, installing and using Git can be found at Use Git to checkout a specific release source, the Git repository URL is shared https://github.com/RestComm/jain-slee.jdbc
