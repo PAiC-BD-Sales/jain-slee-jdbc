@@ -1,12 +1,13 @@
 # Extended JAIN SLEE JDBC
 
+> Extended JAIN SLEE JDBC is an enhanced version derived from RestComm JAIN SLEE available at https://github.com/RestComm/jain-slee.jdbc. This iteration introduces a series of improvements to augment its capabilities.
 
-The Extended Jain Slee Jdbc is cloned from RestComm JAIN SLEE https://github.com/RestComm/jain-slee.jdbc
-from which we have added a set of improvements.
-
-## Introduction
-
-Open Source Extended Jain slee JDBC allows applications to communicate with legacy jdbc communications, providing means to execute JDBC statements in asynchronous fashion. JDBC statements are executed in the RA runtime resources, freeing the JAIN SLEE Event Router from the burden of having its executors (threads) resources blocked by interactions with JDBC Datasources, and results are provided to applications through JAIN SLEE events. The JAIN SLEE application is also completely free from having to manage connection closings.
+## Key Features
+* Empowers applications to establish communication with legacy JDBC-based systems.
+* Facilitates asynchronous execution of JDBC statements, optimizing resource utilization within the RA runtime.
+* Relieves the JAIN SLEE Event Router from resource-blocking interactions with JDBC Datasources.
+* Seamlessly delivers results to applications through JAIN SLEE events.
+* Eliminates the need for JAIN SLEE applications to manage connection closures, streamlining development and operational processes.
 
 ## Build Extended JAIN SLEE JDBC
 
